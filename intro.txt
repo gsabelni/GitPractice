@@ -1,1 +1,2 @@
 This is practicing with adding a second file
+This is simply a second line of text for testing purposes
